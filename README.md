@@ -37,4 +37,3 @@ La branche master correspond au code à la fin de la formation.
 [lil-URL-trainer]: https://
 
 [1]: # (End of FR-Instruction ###############################################################################################)
-# docker-adv
